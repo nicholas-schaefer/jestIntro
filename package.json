@@ -1,0 +1,23 @@
+{
+  "name": "jestIntro",
+  "version": "1.0.0",
+  "description": "Testing with Jest",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholas-schaefer/jestIntro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholas-schaefer/jestIntro/issues"
+  },
+  "homepage": "https://github.com/nicholas-schaefer/jestIntro#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
